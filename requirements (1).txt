@@ -3,3 +3,4 @@ mysql-connector-python
 pandas
 folium
 streamlit-folium
+openai>=1.6.0
